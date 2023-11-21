@@ -1,0 +1,8 @@
+--- hello1.py	2023-11-21 11:22:51.000000000 +0530
++++ hello2.py	2023-11-21 11:23:10.000000000 +0530
+@@ -1 +1,2 @@
+-print("hello1")
+\ No newline at end of file
++print("hello1")
++print("hello2")
+\ No newline at end of file
